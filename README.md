@@ -3,7 +3,6 @@
 Open the terminal and change the directory to <br>
 1) Frontend Folder<br>
   npm i node axios<br>
-  npm install node_modules<br>
  2) backend Folder<br>
   npm i express mongoose nodemon jsonwebtoken mongoose cors cookie-parser bcryptjs
 # To run this project run following commands
